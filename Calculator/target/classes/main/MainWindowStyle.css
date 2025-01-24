@@ -1,0 +1,22 @@
+.root {
+   -fx-background-color: rgba(211, 211, 211);
+   -fx-background-radius: 10;
+}
+
+.mainPane {
+   -fx-background-color: linear-gradient(to bottom right,
+      #FFE5B4,  /* Peach Puff */
+      #FFDAB9,  /* Peach */
+      #FFCBA4,  /* Deep Peach */
+      #FFAB76,  /* Light Coral */
+      #FF7F50,  /* Coral */
+      #FF6F61,  /* Peachy Pink */
+      #FF5A36   /* Burnt Peach */
+   );
+   -fx-background-radius: 15 15 25 25;
+}
+
+.highlight {
+   -fx-background-color: #FFFFFF90;
+   -fx-background-radius: 80;
+}
