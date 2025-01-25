@@ -3,7 +3,7 @@
 A modern calculator application built with JavaFX featuring a sleek, transparent interface and smooth animations.
 
 <p align="center">
-<img width="30%" length="30%" align="center" src="https://github.com/user-attachments/assets/66b9c90a-c640-438a-9121-b96b9bad4b9a">
+<img width="20%" length="20%" align="center" src="https://github.com/user-attachments/assets/66b9c90a-c640-438a-9121-b96b9bad4b9a">
 </p>
 
 ## Features
