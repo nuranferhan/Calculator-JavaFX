@@ -1,4 +1,4 @@
-# 🧮 Calculator 
+# 🧮 Calculator  
 
 A modern calculator application built with JavaFX featuring a sleek, transparent interface and smooth animations.
 
